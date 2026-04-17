@@ -14,21 +14,21 @@ const schedule = [
         end: "00:01:00",
         program: "TARDE INTERATIVA",
         host: "JADILSON REIS",
-        photo: "assets/jadilson_reis.png"
+        photo: "assets/Jadilson_Reis.png"
     },
     {
         start: "00:02:00",
         end: "00:03:00",
         program: "AMANHECER SERTANEJO",
         host: "VALDEMIR BATISTA",
-        photo: "assets/valdemir_batista.png"
+        photo: "assets/Valdemir_Batista.png"
     },
     {
         start: "00:04:00",
         end: "00:05:00",
         program: "MOMENTO DE AMOR",
         host: "WILLIAN GONZAGA",
-        photo: "assets/willian_gonzaga.png",
+        photo: "assets/Willian_Gonzaga.png",
         width: "180px"
     },
     {
@@ -36,7 +36,7 @@ const schedule = [
         end: "00:10:00",
         program: "MOMENTO DE AMOR",
         host: "WILLIAN GONZAGA",
-        photo: "assets/willian_gonzaga.png",
+        photo: "assets/Willian_Gonzaga.png",
         width: "180px"
     },
     {
@@ -44,35 +44,35 @@ const schedule = [
         end: "00:11:59",
         program: "TARDE INTERATIVA",
         host: "JADILSON REIS",
-        photo: "assets/jadilson_reis.png"
+        photo: "assets/Jadilson_Reis.png"
     },
     {
         start: "00:12:00",
         end: "00:12:59",
         program: "ISSO É SERTÃO",
         host: "CHICO MOCÓ",
-        photo: "assets/chico_moco.png"
+        photo: "assets/Chico_Moco.png"
     },
     {
         start: "00:12:59",
         end: "00:13:59",
         program: "AMANHECER SERTANEJO",
         host: "VALDEMIR BATISTA",
-        photo: "assets/valdemir_batista.png"
+        photo: "assets/Valdemir_Batista.png"
     },
     {
         start: "00:14:00",
         end: "00:14:59",
         program: "ISSO É SERTÃO",
         host: "CHICO MOCÓ",
-        photo: "assets/chico_moco.png"
+        photo: "assets/Chico_Moco.png"
     },
     {
         start: "00:14:59",
         end: "00:15:59",
         program: "MOMENTO DE AMOR",
         host: "WILLIAN GONZAGA",
-        photo: "assets/willian_gonzaga.png",
+        photo: "assets/Willian_Gonzaga.png",
         width: "180px"
     },
     {
@@ -80,28 +80,28 @@ const schedule = [
         end: "00:17:59",
         program: "ISSO É SERTÃO",
         host: "CHICO MOCÓ",
-        photo: "assets/chico_moco.png"
+        photo: "assets/Chico_Moco.png"
     },
     {
         start: "00:20:00",
         end: "00:20:59",
         program: "TARDE INTERATIVA",
         host: "JADILSON REIS",
-        photo: "assets/jadilson_reis.png"
+        photo: "assets/Jadilson_Reis.png"
     },
     {
         start: "00:21:00",
         end: "00:21:59",
         program: "AMANHECER SERTANEJO",
         host: "VALDEMIR BATISTA",
-        photo: "assets/valdemir_batista.png"
+        photo: "assets/Valdemir_Batista.png"
     },
     {
         start: "00:22:00",
         end: "00:22:59",
         program: "MOMENTO DE AMOR",
         host: "WILLIAN GONZAGA",
-        photo: "assets/willian_gonzaga.png",
+        photo: "assets/Willian_Gonzaga.png",
         width: "180px"
     },
     {
@@ -109,28 +109,28 @@ const schedule = [
         end: "00:23:59",
         program: "ISSO É SERTÃO",
         host: "CHICO MOCÓ",
-        photo: "assets/chico_moco.png"
+        photo: "assets/Chico_Moco.png"
     },
     {
         start: "00:36:00",
         end: "00:37:00",
         program: "TARDE INTERATIVA",
         host: "JADILSON REIS",
-        photo: "assets/jadilson_reis.png"
+        photo: "assets/Jadilson_Reis.png"
     },
     {
         start: "00:37:00",
         end: "00:38:00",
         program: "AMANHECER SERTANEJO",
         host: "VALDEMIR BATISTA",
-        photo: "assets/valdemir_batista.png"
+        photo: "assets/Valdemir_Batista.png"
     },
     {
         start: "00:38:00",
         end: "00:40:00",
         program: "MOMENTO DE AMOR",
         host: "WILLIAN GONZAGA",
-        photo: "assets/willian_gonzaga.png",
+        photo: "assets/Willian_Gonzaga.png",
         width: "180px"
     },
     {
@@ -138,28 +138,28 @@ const schedule = [
         end: "00:42:00",
         program: "ISSO É SERTÃO",
         host: "CHICO MOCÓ",
-        photo: "assets/chico_moco.png"
+        photo: "assets/Chico_Moco.png"
     },
     {
         start: "01:00:00",
         end: "01:01:00",
         program: "TARDE INTERATIVA",
         host: "JADILSON REIS",
-        photo: "assets/jadilson_reis.png"
+        photo: "assets/Jadilson_Reis.png"
     },
     {
         start: "01:01:00",
         end: "01:02:00",
         program: "AMANHECER SERTANEJO",
         host: "VALDEMIR BATISTA",
-        photo: "assets/valdemir_batista.png"
+        photo: "assets/Valdemir_Batista.png"
     },
     {
         start: "01:02:00",
         end: "01:03:00",
         program: "MOMENTO DE AMOR",
         host: "WILLIAN GONZAGA",
-        photo: "assets/willian_gonzaga.png",
+        photo: "assets/Willian_Gonzaga.png",
         width: "180px"
     },
     {
@@ -167,7 +167,7 @@ const schedule = [
         end: "01:04:00",
         program: "ISSO É SERTÃO",
         host: "CHICO MOCÓ",
-        photo: "assets/chico_moco.png"
+        photo: "assets/Chico_Moco.png"
     },
     {
         start: "08:00:00",
@@ -202,21 +202,21 @@ const schedule = [
         end: "22:50:00",
         program: "PARADA POPULAR",
         host: "JADILSON REIS",
-        photo: "assets/jadilson_reis.png"
+        photo: "assets/Jadilson_Reis.png"
     },
     {
         start: "22:50:00",
         end: "23:00:00",
         program: "AMANHECER SERTANEJO",
         host: "VALDEMIR BATISTA",
-        photo: "assets/valdemir_batista.png"
+        photo: "assets/Valdemir_Batista.png"
     },
     {
         start: "23:50:00",
         end: "23:55:00",
         program: "TARDE INTERATIVA",
         host: "JADILSON REIS",
-        photo: "assets/jadilson_reis.png"
+        photo: "assets/Jadilson_Reis.png"
     }
 ];
 
