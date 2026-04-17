@@ -273,13 +273,14 @@ header {
 /* Host Image Positioning */
 .host-image-container {
     position: absolute;
-    right: 45px;
-    bottom: -38px; /* Baixado 0,3cm (aprox 11px) para ajuste fino solicitado */
+    right: 45px; /* Movido levemente para a esquerda conforme solicitado */
+    top: 65%; /* Baixado mais ainda conforme solicitado */
+    transform: translateY(-50%);
     width: 250px;
     height: 120%;
     pointer-events: none;
     display: flex;
-    align-items: flex-end;
+    align-items: center;
 }
 
 .host-image-container img {
@@ -645,11 +646,11 @@ footer {
 @keyframes fadeInUp {
     from {
         opacity: 0;
-        transform: translateY(20px);
+        transform: translateY(calc(-50% + 20px));
     }
     to {
         opacity: 1;
-        transform: translateY(0);
+        transform: translateY(-50%);
     }
 }
 
